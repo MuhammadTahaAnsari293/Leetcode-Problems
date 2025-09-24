@@ -1,11 +1,8 @@
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
-        count_max=0
-        for i in nums:
-            count = 0
-            while i>0:
-                i = i//10
+        import math
+        count = 0
+        for num in nums:
+            if (math.floor(math.log10(num))+1)%2==0:
                 count+=1
-            if count%2 ==0:
-                count_max+=1
-        return count_max
+        return count
