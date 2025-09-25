@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0755-reach-a-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Sorting
