@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Matrix
 |  |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
