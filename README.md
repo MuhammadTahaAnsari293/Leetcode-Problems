@@ -66,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0155-min-stack) |
+| [1078-remove-outermost-parentheses](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
