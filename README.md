@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1791-richest-customer-wealth](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## String
 |  |
 | ------- |
