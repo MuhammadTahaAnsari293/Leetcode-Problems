@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0755-reach-a-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0755-reach-a-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Greedy
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
