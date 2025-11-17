@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0755-reach-a-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0755-reach-a-number) |
+| [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
