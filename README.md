@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0755-reach-a-number) |
+| [0792-binary-search](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1185-find-in-mountain-array) |
