@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0755-reach-a-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
