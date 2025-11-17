@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Queue
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
