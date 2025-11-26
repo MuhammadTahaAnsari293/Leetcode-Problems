@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0436-find-right-interval) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0755-reach-a-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0755-reach-a-number) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -136,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/MuhammadTahaAnsari293/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
